@@ -1,4 +1,4 @@
-package com.moi.maven.apps.moiAppliGit;
+package com.moi.maven.apps.monAppliGit.presentation;
 
 /**
  * Hello world!
